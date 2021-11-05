@@ -12,8 +12,10 @@ export const PageWrap = styled.div`
   )}px;
   min-height: 100vh;
   padding: ${sizes.space(2)};
+  padding-left: 10%;
   text-align: left;
-  max-width: 40rem;
+  max-width: 35rem;
+  box-sizing: content-box;
 
   code {
     display: block;

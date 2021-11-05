@@ -16,7 +16,9 @@ export const Content = () => {
         </Typography>
       </Wrap>
       <Wrap>
-        <Typography variant="h2">What is Vertical Rhythm?</Typography>
+        <Typography variant="h2" gutterBottom>
+          What is Vertical Rhythm?
+        </Typography>
         <Typography variant="body1">
           Vertical Rhythm is a concept that originated from print typography (I
           think). In Vertical Rhythm, we try to keep vertical spaces between
@@ -88,7 +90,9 @@ export const Content = () => {
         </Typography>
       </Wrap>
       <Wrap>
-        <Typography variant="h2">Varying Repetitions</Typography>
+        <Typography variant="h2" gutterBottom>
+          Varying Repetitions
+        </Typography>
         <Typography variant="body1">
           We can’t possibly separate everything by 24px. It’ll be boring. We
           need to throw in some variations somewhere. But how? The answer can be
@@ -109,7 +113,9 @@ export const Content = () => {
         </Typography>
       </Wrap>
       <Wrap>
-        <Typography variant="h2">Repeating 24px Elsewhere</Typography>
+        <Typography variant="h2" gutterBottom>
+          Repeating 24px Elsewhere
+        </Typography>
         <Typography variant="body1">
           So far, we’re focused on repeating the flow of 24px from top to
           bottom. Don’t you think you can repeat 24px horizontally on the left
